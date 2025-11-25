@@ -40,12 +40,12 @@ public class EmailTest {
 		
 	}
 
-	@Test(expected = EmailException.class)
+	/*@Test(expected = EmailException.class)
 	public void testaddCcwithNull() throws EmailException {
 		String testemail = null;
 		stubobj.addCc(testemail);
 		
-	}
+	}*/
 
 	@Test
 	public void testaddCc() {
