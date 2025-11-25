@@ -19,7 +19,7 @@ import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 import javax.mail.internet.MimeMultipart;
 
-import org.junit.After;
+import org.junit.After
 import org.junit.Before;
 import org.junit.Test;
 import org.subethamail.wiser.Wiser;
